@@ -13,7 +13,8 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^22.5.1",
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.5"
   },
   "dependencies": {
     "fastify": "^4.28.1",
